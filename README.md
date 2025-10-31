@@ -141,25 +141,19 @@ Follow these steps to set up the project locally.
 
 **🧩 Future Enhancements**
 
-  📱 Mobile version (React Native / Flutter)
-  
-  🧠 AI-based conversation suggestions
-  
-  🌍 Multi-language support
-  
-  🔔 Push notifications
-  
-  🕵️‍♂️ End-to-end message encryption
+    📱 Mobile version (React Native / Flutter)
+    🧠 AI-based conversation suggestions
+    🌍 Multi-language support
+    🔔 Push notifications
+    🕵️‍♂️ End-to-end message encryption
 
 ---
 
 **👨‍💻 Author**
 
-  Samith Shashika
-  
-  GitHub: https://github.com/SamithShashika71
-
-  G-mail: samithsashika71@gmail.com
+    Samith Shashika
+    GitHub: https://github.com/SamithShashika71
+    G-mail: samithsashika71@gmail.com
 
  ---
 
