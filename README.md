@@ -43,12 +43,12 @@ The project showcases advanced full-stack development principles, including cust
 
 **🚀 Installation Guide**
 
-### Prerequisites
-- Node.js (16+ recommended)
-- MongoDB (local or Atlas)
-- Cloudinary or object storage account (optional)
-- GetStream / WebRTC credentials (if using Stream)
-- Yarn or npm
+Prerequisites
+  - Node.js (16+ recommended)
+  - MongoDB (local or Atlas)
+  - Cloudinary or object storage account (optional)
+  - GetStream / WebRTC credentials (if using Stream)
+  - Yarn or npm
 
 
 Follow these steps to set up the project locally.
@@ -61,12 +61,12 @@ Follow these steps to set up the project locally.
   2️⃣ Install Dependencies
   
     Backend:
-    cd backend
-    npm install
+      cd backend
+      npm install
 
     Frontend:
-    cd ../frontend
-    npm install
+      cd ../frontend
+      npm install
 
   3️⃣ Environment Variables
   
@@ -80,16 +80,15 @@ Follow these steps to set up the project locally.
   4️⃣ Run the Application
   
     Backend:
-    cd backend
-    npm run dev
+      cd backend
+      npm run dev
     
     Frontend:
-    cd ../frontend
-    npm start
+      cd ../frontend
+      npm start
 
     Then open your browser and visit:
       http://localhost:5001
-
 
 ---
 
@@ -143,9 +142,13 @@ Follow these steps to set up the project locally.
 **🧩 Future Enhancements**
 
   📱 Mobile version (React Native / Flutter)
+  
   🧠 AI-based conversation suggestions
+  
   🌍 Multi-language support
+  
   🔔 Push notifications
+  
   🕵️‍♂️ End-to-end message encryption
 
 ---
@@ -153,9 +156,10 @@ Follow these steps to set up the project locally.
 **👨‍💻 Author**
 
   Samith Shashika
-  Final Year Software Engineering Undergraduate
-  📍 Sri Lanka
-   GitHub
+  
+  GitHub: https://github.com/SamithShashika71
+
+  G-mail: samithsashika71@gmail.com
 
  ---
 
