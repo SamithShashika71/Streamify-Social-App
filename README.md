@@ -43,46 +43,52 @@ The project showcases advanced full-stack development principles, including cust
 
 **🚀 Installation Guide**
 
+### Prerequisites
+- Node.js (16+ recommended)
+- MongoDB (local or Atlas)
+- Cloudinary or object storage account (optional)
+- GetStream / WebRTC credentials (if using Stream)
+- Yarn or npm
+
+
 Follow these steps to set up the project locally.
 
   1️⃣ Clone the Repository
   
-  git clone https://github.com/yourusername/streamify.git
-  cd streamify
+    git clone https://github.com/yourusername/streamify.git
+    cd streamify
 
   2️⃣ Install Dependencies
   
-  Backend:
-  cd backend
-  npm install
+    Backend:
+    cd backend
+    npm install
 
-  Frontend:
-  cd ../frontend
-  npm install
+    Frontend:
+    cd ../frontend
+    npm install
 
   3️⃣ Environment Variables
   
-  Create a .env file in your backend folder with:
-    PORT=5000
-    MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_jwt_secret
-    STREAM_API_KEY=your_stream_api_key
-    STREAM_API_SECRET=your_stream_api_secret
+    Create a .env file in your backend folder with:
+      PORT=5000
+      MONGO_URI=your_mongodb_connection_string
+      JWT_SECRET=your_jwt_secret
+      STREAM_API_KEY=your_stream_api_key
+      STREAM_API_SECRET=your_stream_api_secret
   
   4️⃣ Run the Application
   
-  Backend:
-  cd backend
-  npm run dev
-  
-  Frontend:
-  cd ../frontend
-  npm start
+    Backend:
+    cd backend
+    npm run dev
+    
+    Frontend:
+    cd ../frontend
+    npm start
 
-
-  Then open your browser and visit:
-  
-  http://localhost:5001
+    Then open your browser and visit:
+      http://localhost:5001
 
 
 ---
@@ -121,36 +127,39 @@ Follow these steps to set up the project locally.
 
 ---
 
+**🧪 Testing**
+
+  * Use Postman or Insomnia to test endpoints.
+  * Backend unit/integration tests via Jest / Supertest
+
+---
+
 **📦 Deployment**
 
-Backend deployed on Render
-
-Frontend hosted on Render
-
-🔗 Live App: https://streamify-social-app-vo9h.onrender.com
+  🔗 Live App: https://streamify-social-app-vo9h.onrender.com
 
 ---
 
 **🧩 Future Enhancements**
 
-📱 Mobile version (React Native / Flutter)
-🧠 AI-based conversation suggestions
-🌍 Multi-language support
-🔔 Push notifications
-🕵️‍♂️ End-to-end message encryption
+  📱 Mobile version (React Native / Flutter)
+  🧠 AI-based conversation suggestions
+  🌍 Multi-language support
+  🔔 Push notifications
+  🕵️‍♂️ End-to-end message encryption
 
 ---
 
 **👨‍💻 Author**
 
-Samith Shashika
-Final Year Software Engineering Undergraduate
-📍 Sri Lanka
- GitHub
+  Samith Shashika
+  Final Year Software Engineering Undergraduate
+  📍 Sri Lanka
+   GitHub
 
  ---
 
 **🪪 License**
-
-This project is licensed under the MIT License — free to use, modify, and distribute.
+  
+  This project is licensed under the MIT License — free to use, modify, and distribute.
 
